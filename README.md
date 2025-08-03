@@ -47,7 +47,7 @@ AwesomeBankingApp.Tests/
 
 ## 1. Clone the Repository
 
-git clone https://github.com/your-username/awesome-banking-gic.git
+git clone https://github.com/Prernachauhan15/awesome-banking-gic.git
 cd awesome-banking-gic
 
 
