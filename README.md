@@ -45,8 +45,8 @@ AwesomeBankingApp.Tests/
 
 ## How to Run
 
-### 1. Clone the Repository
-```bash
+## 1. Clone the Repository
+
 git clone https://github.com/your-username/awesome-banking-gic.git
 cd awesome-banking-gic
 
