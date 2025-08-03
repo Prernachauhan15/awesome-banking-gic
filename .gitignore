@@ -3,3 +3,4 @@
 *.suo 
 TestResults/ 
 *.log 
+.vs/ 
