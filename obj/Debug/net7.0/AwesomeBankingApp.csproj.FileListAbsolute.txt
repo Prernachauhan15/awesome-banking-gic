@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\AwesomeBankingApp\bin\Debug\net7.0\AwesomeBankingApp.exe
+C:\Users\ASUS\source\repos\AwesomeBankingApp\bin\Debug\net7.0\AwesomeBankingApp.deps.json
+C:\Users\ASUS\source\repos\AwesomeBankingApp\bin\Debug\net7.0\AwesomeBankingApp.runtimeconfig.json
+C:\Users\ASUS\source\repos\AwesomeBankingApp\bin\Debug\net7.0\AwesomeBankingApp.dll
+C:\Users\ASUS\source\repos\AwesomeBankingApp\bin\Debug\net7.0\AwesomeBankingApp.pdb
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.dll
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\refint\AwesomeBankingApp.dll
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.pdb
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\AwesomeBankingApp.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AwesomeBankingApp\obj\Debug\net7.0\ref\AwesomeBankingApp.dll
